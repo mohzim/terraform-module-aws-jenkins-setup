@@ -18,7 +18,7 @@ This is a respository to setup Jenkins in AWS EC2 instance using Terraform.
 ## Steps
 1. Download the repository and go to the base folder 
 
-    `cd terraform-aws-3tier-demo`
+    `cd terraform-module-aws-jenkins-setup`
 2. Initialize terraform
 
     `terraform init`

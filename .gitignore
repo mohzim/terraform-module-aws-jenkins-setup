@@ -1,3 +1,4 @@
 terraform*
 .terraform*
 userdata1.sh
+.DS_Store
